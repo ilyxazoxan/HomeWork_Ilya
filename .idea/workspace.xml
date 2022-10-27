@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7926c8b-3132-40ba-b878-178879de2dc5" name="Changes" comment="first commit" />
+    <list default="true" id="d7926c8b-3132-40ba-b878-178879de2dc5" name="Changes" comment="Ploshad' Kvadrata">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PloshadKryga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,14 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PloshadKvadrata">
+  <component name="RunManager" selected="Application.PloshadKryga">
+    <configuration name="PloshadKryga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PloshadKryga" />
+      <module name="work1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PloshadKvadrata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PloshadKvadrata" />
       <module name="work1" />
@@ -126,11 +136,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.PloshadKryga" />
       <item itemvalue="Application.PloshadKvadrata" />
       <item itemvalue="Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PloshadKryga" />
         <item itemvalue="Application.PloshadKvadrata" />
       </list>
     </recent_temporary>
@@ -151,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666895266948</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ploshad' Kvadrata">
+      <created>1666898343528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666898343528</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Ploshad' Kvadrata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ploshad' Kvadrata" />
   </component>
 </project>
