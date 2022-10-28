@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7926c8b-3132-40ba-b878-178879de2dc5" name="Changes" comment="Ploshad' Kryga">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PloshadTreygolnika.java" afterDir="false" />
+    <list default="true" id="d7926c8b-3132-40ba-b878-178879de2dc5" name="Changes" comment="Ploshad' Treygolnika">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PloshadTreygolnika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TheAreaOfTheTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +51,10 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs"
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PloshadTreygolnika">
+  <component name="RunManager" selected="Application.TheAreaOfTheTriangle">
     <configuration name="PloshadKryga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PloshadKryga" />
       <module name="work1" />
@@ -71,6 +71,13 @@
     </configuration>
     <configuration name="PloshadTreygolnika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PloshadTreygolnika" />
+      <module name="work1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheAreaOfTheTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheAreaOfTheTriangle" />
       <module name="work1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,6 +150,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.TheAreaOfTheTriangle" />
       <item itemvalue="Application.PloshadKryga" />
       <item itemvalue="Application.PloshadKvadrata" />
       <item itemvalue="Application.PloshadTreygolnika" />
@@ -150,6 +158,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheAreaOfTheTriangle" />
         <item itemvalue="Application.PloshadTreygolnika" />
         <item itemvalue="Application.PloshadKryga" />
         <item itemvalue="Application.PloshadKvadrata" />
@@ -186,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666899189766</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ploshad' Treygolnika">
+      <created>1666900532856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666900532856</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +221,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Ploshad' Kvadrata" />
     <MESSAGE value="Ploshad' Kryga" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ploshad' Kryga" />
+    <MESSAGE value="Ploshad' Treygolnika" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ploshad' Treygolnika" />
   </component>
 </project>
