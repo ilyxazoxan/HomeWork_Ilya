@@ -1,4 +1,4 @@
-public class PloshadKvadrata {
+public class SquareArea {
     public static void main(String[] args){
         int a = 25;
         int b = 12;

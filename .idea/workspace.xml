@@ -51,7 +51,7 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AreaOfThecircle">
+  <component name="RunManager" selected="Application.SquareArea">
     <configuration name="AreaOfThecircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaOfThecircle" />
       <module name="work1" />
@@ -66,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PloshadKvadrata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PloshadKvadrata" />
+    <configuration name="PloshadTreygolnika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PloshadTreygolnika" />
       <module name="work1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PloshadTreygolnika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PloshadTreygolnika" />
+    <configuration name="SquareArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareArea" />
       <module name="work1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,20 +154,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.SquareArea" />
       <item itemvalue="Application.AreaOfThecircle" />
       <item itemvalue="Application.TheAreaOfTheTriangle" />
       <item itemvalue="Application.PloshadKryga" />
-      <item itemvalue="Application.PloshadKvadrata" />
       <item itemvalue="Application.PloshadTreygolnika" />
       <item itemvalue="Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquareArea" />
         <item itemvalue="Application.AreaOfThecircle" />
         <item itemvalue="Application.TheAreaOfTheTriangle" />
         <item itemvalue="Application.PloshadTreygolnika" />
         <item itemvalue="Application.PloshadKryga" />
-        <item itemvalue="Application.PloshadKvadrata" />
       </list>
     </recent_temporary>
   </component>
