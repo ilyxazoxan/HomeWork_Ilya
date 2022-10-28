@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7926c8b-3132-40ba-b878-178879de2dc5" name="Changes" comment="TheAreaOfTheTriangle" />
+    <list default="true" id="d7926c8b-3132-40ba-b878-178879de2dc5" name="Changes" comment="AreaOfThecircle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,9 +51,9 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AreaOfTheСircle">
-    <configuration name="AreaOfTheСircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaOfTheСircle" />
+  <component name="RunManager" selected="Application.AreaOfThecircle">
+    <configuration name="AreaOfThecircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfThecircle" />
       <module name="work1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,7 +154,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.AreaOfTheСircle" />
+      <item itemvalue="Application.AreaOfThecircle" />
       <item itemvalue="Application.TheAreaOfTheTriangle" />
       <item itemvalue="Application.PloshadKryga" />
       <item itemvalue="Application.PloshadKvadrata" />
@@ -163,7 +163,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AreaOfTheСircle" />
+        <item itemvalue="Application.AreaOfThecircle" />
         <item itemvalue="Application.TheAreaOfTheTriangle" />
         <item itemvalue="Application.PloshadTreygolnika" />
         <item itemvalue="Application.PloshadKryga" />
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666982735938</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="AreaOfThecircle">
+      <created>1666983195946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666983195946</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +243,8 @@
     <MESSAGE value="Ploshad' Kryga" />
     <MESSAGE value="Ploshad' Treygolnika" />
     <MESSAGE value="TheAreaOfTheTriangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="TheAreaOfTheTriangle" />
+    <MESSAGE value="AreaOfTheСircle" />
+    <MESSAGE value="AreaOfThecircle" />
+    <option name="LAST_COMMIT_MESSAGE" value="AreaOfThecircle" />
   </component>
 </project>
